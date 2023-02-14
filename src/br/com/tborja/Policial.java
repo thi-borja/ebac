@@ -1,0 +1,8 @@
+package br.com.tborja;
+
+public class Policial extends Trabalhador{
+    @Override
+    protected void trabalhar() {
+        System.out.println("Trabalhando como policial");
+    }
+}
