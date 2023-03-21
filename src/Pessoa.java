@@ -58,4 +58,8 @@ public class Pessoa {
     public String toString() {
         return nome + " - " + sexo;
     }
+
+    public String testSexo() {
+        return sexo;
+    }
 }

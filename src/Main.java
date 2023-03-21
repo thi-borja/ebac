@@ -1,3 +1,6 @@
+import org.junit.Assert;
+import org.junit.Test;
+
 import java.util.*;
 import java.util.stream.*;
 
@@ -7,7 +10,7 @@ public class Main {
 
         Stream<Pessoa> streamMulheres = pessoas.stream().filter(pessoa -> pessoa.getSexo().equalsIgnoreCase("Feminino"));
 
-        streamMulheres.forEach(System.out::println);
-
+        //Teste
+        streamMulheres.forEach(pessoa -> Assert.assertTrue(pessoa.getSexo().equalsIgnoreCase("Feminino")));
     }
 }
