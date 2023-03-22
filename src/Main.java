@@ -10,7 +10,5 @@ public class Main {
 
         Stream<Pessoa> streamMulheres = pessoas.stream().filter(pessoa -> pessoa.getSexo().equalsIgnoreCase("Feminino"));
 
-        //Teste
-        streamMulheres.forEach(pessoa -> Assert.assertTrue(pessoa.getSexo().equalsIgnoreCase("Feminino")));
     }
 }
