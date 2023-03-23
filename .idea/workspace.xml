@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d5a694f-828c-48b6-b22b-4698b6b66b3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/dao/ClienteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/dao/ClienteDaoMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/dao/ContratoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/dao/ContratoDaoMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/dao/IClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/dao/IContratoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/service/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/service/ContratoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/service/IContratoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/test/ClienteServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/thborja/test/ContratoServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NOFIOuQ6l6iar2zjyYslEnh70b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.thborja.service" />
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ClienteServiceTest">
+    <configuration name="ClienteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.thborja.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.thborja.test.ClienteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest.esperadoErroNoSalvarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.thborja.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.thborja.test.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="esperadoErroNoSalvarTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTest.salvarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.thborja.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.thborja.test.ClienteServiceTest" />
+      <option name="METHOD_NAME" value="salvarTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContratoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.thborja.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.thborja.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.thborja.test.ContratoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContratoServiceTest.salvarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="M24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.thborja.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.thborja.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.thborja.test.ContratoServiceTest" />
+      <option name="METHOD_NAME" value="salvarTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteServiceTest" />
+        <item itemvalue="JUnit.ContratoServiceTest" />
+        <item itemvalue="JUnit.ContratoServiceTest.salvarTest" />
+        <item itemvalue="JUnit.ClienteServiceTest.salvarTest" />
+        <item itemvalue="JUnit.ClienteServiceTest.esperadoErroNoSalvarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5a694f-828c-48b6-b22b-4698b6b66b3e" name="Changes" comment="" />
+      <created>1679527143689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679527143689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/M24$ClienteServiceTest_salvarTest.ic" NAME="ClienteServiceTest.salvarTest Coverage Results" MODIFIED="1679531555230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M24$ContratoServiceTest.ic" NAME="ContratoServiceTest Coverage Results" MODIFIED="1679535407441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.thborja.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M24$ClienteServiceTest_esperadoErroNoSalvarTest.ic" NAME="ClienteServiceTest.esperadoErroNoSalvarTest Coverage Results" MODIFIED="1679531532925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M24$ClienteServiceTest.ic" NAME="ClienteServiceTest Coverage Results" MODIFIED="1679535176706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.thborja.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/M24$ContratoServiceTest_salvarTest.ic" NAME="ContratoServiceTest.salvarTest Coverage Results" MODIFIED="1679534336348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.thborja.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
